@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "categoryId": "1",
+      "quantityPerUnit": "Lenovo",
+      "unitPrice": "5000",
+      "unitsInStock": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Laptops",
+      "description": "All Laptops"
+    }
+  ]
+}
